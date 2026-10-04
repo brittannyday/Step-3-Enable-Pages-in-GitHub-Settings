@@ -1,0 +1,5 @@
+Once you push your code, you need to tell GitHub to use Actions for the website deployment:
+1. Go to your repository on GitHub.com.
+2. Click on the ⚙️ Settings tab at the top.
+3. On the left sidebar, click on Pages.
+4. Under Build and deployment -> Source, click the dropdown menu and change it from Deploy from a branch to GitHub Actions.
